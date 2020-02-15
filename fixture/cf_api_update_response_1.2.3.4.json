@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "errors": [],
+  "messages": [],
+  "result": {
+    "id": "test_record_id",
+    "type": "A",
+    "name": "test_name",
+    "content": "1.2.3.4",
+    "proxiable": true,
+    "proxied": false,
+    "ttl": 120,
+    "locked": false,
+    "zone_id": "test_zone_id",
+    "zone_name": "test_name",
+    "created_on": "2014-01-01T05:20:00.12345Z",
+    "modified_on": "2014-01-01T05:20:00.12345Z",
+    "data": {},
+    "meta": {
+      "auto_added": true,
+      "source": "primary"
+    }
+  }
+}

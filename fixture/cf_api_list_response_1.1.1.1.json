@@ -1,0 +1,33 @@
+{
+  "result": [
+    {
+      "id": "test_record_id",
+      "type": "A",
+      "name": "test_name",
+      "content": "1.1.1.1",
+      "proxiable": true,
+      "proxied": false,
+      "ttl": 1,
+      "locked": false,
+      "zone_id": "test_zone_id",
+      "zone_name": "test_zone_name",
+      "modified_on": "2020-02-15T05:59:56.054230Z",
+      "created_on": "2020-02-15T05:59:56.054230Z",
+      "meta": {
+        "auto_added": false,
+        "managed_by_apps": false,
+        "managed_by_argo_tunnel": false
+      }
+    }
+  ],
+  "result_info": {
+    "page": 1,
+    "per_page": 20,
+    "total_pages": 1,
+    "count": 1,
+    "total_count": 1
+  },
+  "success": true,
+  "errors": [],
+  "messages": []
+}
